@@ -1,4 +1,4 @@
 # demo
 This is my first git repository.
 <br>
-Author - Mihir Kulaye
+Author - Mihir Kulaye (Ghost-ds)
